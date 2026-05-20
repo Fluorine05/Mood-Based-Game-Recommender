@@ -15,7 +15,9 @@ REQUIRES:
 
 TO RUN:
 1.Open CMD/Poweshell Within The Folders Directory
+
 2.Run [ javac --module-path "(JavaFX Directory Here)" --add-modules javafx.controls *.java ] Within The Terminal To Compile The Project
+
 3.To Run The App Just Use This Command And Then The App Will Open [ java --module-path "(JavaFX Directory Here)" --add-modules javafx.controls UserInterface ]
 
 Enjoy This Little Project :)
